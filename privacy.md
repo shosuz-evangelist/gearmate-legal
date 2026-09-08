@@ -71,4 +71,4 @@ If this policy changes, the date at the top of this page changes with it.
 
 ## Contact
 
-Questions, or a request to delete your data: **PLACEHOLDER_CONTACT_EMAIL**
+Questions, or a request to delete your data: **info@developeradvocate.jp**
